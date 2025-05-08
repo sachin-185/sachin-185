@@ -24,19 +24,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.python.org" target="blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a> 
-  <a href="https://opencv.org/" target="_blank"> 
+  <a href="https://opencv.org/" target="blank"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank"> 
+  <a href="https://pandas.pydata.org/" target="blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
   </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> 
+  <a href="https://scikit-learn.org/" target="blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
   </a>
-  <a href="https://jupyter.org/" target="_blank"> 
+  <a href="https://jupyter.org/" target="blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> 
   </a>
 </p>
