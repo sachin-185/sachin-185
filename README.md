@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋 I'm Sachin</h1>
-<h3 align="center">A passionate AI enthusiast and problem solving</h3>
+<h3 align="center">A passionate AI enthusiast and problem solver</h3>
 
-- 🔭 I’m currently pursuing my **2nd year Bachelor's in Computer Science and Engineering (AI & DS)** at Rajalakshmi Institute of Technology.
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning** and **AI**.
-
+- 🔭 I’m currently pursuing my **2nd year Bachelor's in Computer Science and Engineering (AI & DS)** at Rajalakshmi Institute of Technology.  
+- 🌱 I’m currently learning **Machine Learning, Deep Learning** and **AI**.  
 - 📫 How to reach me: <a href="mailto:svsachin2005@gmail.com">Email</a>  
+- 😄 Pronouns: **He/Him**
 
-- 😄 Pronouns: **He/Him**.
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-s-a05626298" target="blank">
