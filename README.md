@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">I'm passionate about AI and problem-solving</h3>
 
-- 🔭 I’m currently pursuing my **2nd year Bachelor's in AI & Data Science** at Rajalakshmi Institute of Technology
+- 🔭 I’m currently pursuing my **3rd year Bachelor's in AI & Data Science** at Rajalakshmi Institute of Technology
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**, and **AI**
 
