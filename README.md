@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**, and **AI**
 
-- 📫 How to reach me: <a href="mailto:svsachin2005@gmail.com">Email</a>
+- 📫 How to reach me: <a href="mailto: svsdsachin@gmail.com">Email</a>
 
 - 🛠️ I love working on real-world AI projects that solve problems 
 
