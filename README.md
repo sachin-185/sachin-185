@@ -3,13 +3,10 @@
 
 <img align="right" alt="AI Developer" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b79c1cfdc3485c85c38eb.gif" />
 
-- 🎓 I’m currently pursuing **B.Tech in AI & Data Science (3rd Year)** at **Rajalakshmi Institute of Technology.**
-
-- 🤖 I’m exploring **Machine Learning**, **Deep Learning**, and building **AI-powered projects.**
-
-- 💡  I love working on real-world AI projects that solve problems.
-
-- 📫 Reach me at: [Email](mailto:svsdsachin@gmail.com)
+- 🎓 I’m currently pursuing **B.Tech in AI & Data Science (3rd Year)** at **Rajalakshmi Institute of Technology**  
+- 🤖 I’m exploring **Machine Learning**, **Deep Learning**, and building **AI-powered projects**  
+- 💡 I love working on real-world AI projects that solve problems  
+- 📫 Reach me at: [svsdsachin@gmail.com](mailto:svsdsachin@gmail.com)
 
 ---
 
@@ -22,12 +19,11 @@
   <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  </a>
 </p>
 
 ---
@@ -44,4 +40,11 @@
 
 ---
 
+### 📈 GitHub Activity Graph
+
+[![SACHIN's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sachin-185&bg_color=18020d&color=f5eff5&line=f312e4&point=f7eded&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 > “It’s not over until you win.” – *Sachin*
+
