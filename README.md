@@ -34,6 +34,7 @@
   <a href="https://x.com/sachin26031" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sachin-s-a05626298" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/mrsachin543" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.hackerrank.com/svsachin2005" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://www.instagram.com/sachin26031" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
