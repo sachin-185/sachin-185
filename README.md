@@ -7,7 +7,6 @@
 - 🤖 I’m exploring **AI**, **Full-stack development**, **Data Science** and building **AI-powered projects**  
 - 💡 I love working on real-world AI projects that solve problems  
 - 📫 Reach me at: [svsachinsd@gmail.com](mailto:svsachinsd@gmail.com)
-
 ---
 
 ### 🛠️ Languages and Tools
