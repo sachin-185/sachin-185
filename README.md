@@ -3,8 +3,8 @@
 
 <img align="right" alt="AI Developer" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b79c1cfdc3485c85c38eb.gif" />
 
-- 🎓 I’m currently pursuing **B.Tech in AI & Data Science (3rd Year)** at **Rajalakshmi Institute of Technology**  
-- 🤖 I’m exploring **Machine Learning**, **Deep Learning**, **Frontend**, **Backend development** and building **AI-powered projects**  
+- 🎓 I’m currently pursuing **B.Tech in AI & Data Science** at **Rajalakshmi Institute of Technology**  
+- 🤖 I’m exploring **AI**, **Full-stack development**, **Data Science** and building **AI-powered projects**  
 - 💡 I love working on real-world AI projects that solve problems  
 - 📫 Reach me at: [svsdsachin@gmail.com](mailto:svsdsachin@gmail.com)
 
@@ -50,6 +50,22 @@
 <a href="https://streamlit.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
 </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="40" height="40"/>
+</a>
+
+<a href="https://www.netlify.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" width="40" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
