@@ -6,7 +6,7 @@
 - 🎓 I’m currently pursuing **B.Tech in AI & Data Science** at **Rajalakshmi Institute of Technology**  
 - 🤖 I’m exploring **AI**, **Full-stack development**, **Data Science** and building **AI-powered projects**  
 - 💡 I love working on real-world AI projects that solve problems  
-- 📫 Reach me at: [svsdsachin@gmail.com](mailto:svsdsachin@gmail.com)
+- 📫 Reach me at: [svsachinsd@gmail.com](mailto:svsachinsd@gmail.com)
 
 ---
 
@@ -17,7 +17,6 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
