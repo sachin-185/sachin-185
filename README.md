@@ -88,5 +88,5 @@
 
 ---
 
-> “It’s not over until you win.” – *Sachin*
+> “It’s not over until you win.” – *SACHIN*
 
