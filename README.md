@@ -88,5 +88,5 @@
 
 ---
 
-> “It’s not over until you win.” – *SACHIN*
+> *“It’s not over until you win.”* – *SACHIN*
 
