@@ -5,8 +5,11 @@
 
 - 🎓 I’m currently pursuing **B.Tech in AI & Data Science** at **Rajalakshmi Institute of Technology**
 - 💼 **Intern** @ `Plugzmart`  
-- 🤖 I’m exploring **Full-stack development**, **Data Science** and building **AI-powered projects**  
-- 💡 I love working on real-world AI projects that solve problems  
+- 🔭 I’m currently working on AI-powered projects, full‑stack web applications, and automating real‑world workflows.
+- 🌱 I’m currently learning Data Structures & Algorithms, backend development (Node.js / Django), and advanced AI/ML integration.
+- 👯 I’m looking to collaborate on Open‑source projects related to AI, full‑stack web development, and developer tools.
+- 😄 Pronouns: Sachin
+- ⚡ Fun fact: I love breaking down complex problems into simple, working solutions and turning ideas into real projects.
 - 📫 Reach me at: [svsachinsd@gmail.com](mailto:svsachinsd@gmail.com)
 ---
 
@@ -25,6 +28,7 @@
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40"/></a>
