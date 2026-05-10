@@ -3,7 +3,8 @@
 
 <img align="right" alt="AI Developer" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b79c1cfdc3485c85c38eb.gif" />
 
-- 🎓 I’m currently pursuing **B.Tech in AI & Data Science** at **Rajalakshmi Institute of Technology**  
+- 🎓 I’m currently pursuing **B.Tech in AI & Data Science** at **Rajalakshmi Institute of Technology**
+- 💼 **Intern** @ `Plugzmart`  
 - 🤖 I’m exploring **Full-stack development**, **Data Science** and building **AI-powered projects**  
 - 💡 I love working on real-world AI projects that solve problems  
 - 📫 Reach me at: [svsachinsd@gmail.com](mailto:svsachinsd@gmail.com)
