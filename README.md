@@ -30,8 +30,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40"/></a>
@@ -39,7 +39,7 @@
   <a href="https://www.gradio.app/" target="_blank"><img src="https://cdn.simpleicons.org/gradio/FF7C00" width="40" height="40"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" height="40"/></a>
   <a href="https://www.netlify.com/" target="_blank"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" /></a>
 </p>
 
 ---
