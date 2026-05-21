@@ -5,8 +5,8 @@
 
 - 🎓 I’m currently pursuing **B.Tech in AI & Data Science** at **Rajalakshmi Institute of Technology**
 - 💼 **Intern** @ `Plugzmart`  
-- 🔭 I’m currently working on AI-powered projects, full‑stack web applications, and automating real‑world workflows.
-- 🌱 I’m currently learning Data Structures & Algorithms, backend development (Node.js / Django), and advanced AI/ML integration.
+- 🔭 I’m currently working on AI-powered projects(RAG, Vector Database), full‑stack web applications, and automating real‑world workflows.
+- 🌱 I’m currently learning Data Structures & Algorithms, backend development, and advanced AI/ML integration.
 - 👯 I’m looking to collaborate on Open‑source projects related to AI, full‑stack web development, and developer tools.
 - 😄 Pronouns: Sachin
 - ⚡ Fun fact: I love breaking down complex problems into simple, working solutions and turning ideas into real projects.
