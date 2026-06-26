@@ -57,7 +57,7 @@
 <a href="https://leetcode.com/u/sachin520/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-</a>
+<a href="https://medium.com/@svsachin2005" target="_blank"> <img src="https://shields.io" alt="Medium Profile" /> </a>
 </p>
 
 ---
