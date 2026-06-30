@@ -4,7 +4,7 @@
 <img align="right" alt="AI Developer" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b79c1cfdc3485c85c38eb.gif" />
 
 - 🎓 I’m currently pursuing **B.Tech in AI & Data Science** at **Rajalakshmi Institute of Technology**.
-- 💼 **Intern** @ `Plugzmart`.
+- 💼 **Former Intern** @ `Plugzmart`.
 - 🔭 I’m currently working on AI-powered projects(RAG, Vector Database), full‑stack web applications, and automating real‑world workflows.
 - 🌱 I’m currently learning Data Structures & Algorithms, backend development, and advanced AI/ML integration.
 - 👯 I’m looking to collaborate on Open‑source projects related to AI, full‑stack web development, and developer tools.
